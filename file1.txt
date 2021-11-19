@@ -1,1 +1,2 @@
 this is great file1
+and now it's changed
