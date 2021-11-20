@@ -1,3 +1,3 @@
-this is great file1
+this is great file1//
 and now it's changed
 it changed again such wonder
